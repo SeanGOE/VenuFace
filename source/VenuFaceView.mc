@@ -7,8 +7,6 @@ import Toybox.Time.Gregorian;
 
 class VenuFaceView extends WatchUi.WatchFace {
 
-    var width;
-
 
     function initialize() {
         WatchFace.initialize();
@@ -16,7 +14,6 @@ class VenuFaceView extends WatchUi.WatchFace {
 
     // Load your resources here
     function onLayout(dc as Dc) as Void {
-        width = dc.getWidth();
         setLayout(Rez.Layouts.WatchFace(dc));
     }
 
@@ -55,7 +52,7 @@ class VenuFaceView extends WatchUi.WatchFace {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
 
-		dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+	    dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         drawLineHand(dc, 12.00, hours, 60,  minutes, 80, 3);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 		drawLineHand(dc, 60, minutes, 0, 0, 80 * 1.25, 3);
@@ -85,6 +82,7 @@ class VenuFaceView extends WatchUi.WatchFace {
     //      length - the length of the hand
     //      stroke - the thickness of the hand
     function drawLineHand(dc, num, time, offsetNum, offsetTime, length, stroke) {
+        var width = dc.getWidth();
         var angle = Math.toRadians((360/num) * time) - Math.PI/2;
         var center = width/2;
         

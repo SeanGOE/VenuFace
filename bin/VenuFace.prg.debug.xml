@@ -22,55 +22,55 @@
         <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceApp.mc" id="10" lineNum="16" parent="globals/VenuFaceApp" pc="268435713" symbol="onStop"/>
         <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="11" lineNum="7" parent="globals/Rez" pc="268435716" symbol="&lt;init&gt;"/>
         <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="12" lineNum="8" parent="globals/VenuFaceView" pc="268435740" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="15" lineNum="18" parent="globals/VenuFaceView" pc="268435759" symbol="onLayout"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="15" lineNum="19" parent="globals/VenuFaceView" pc="268435761" symbol="onLayout"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="15" lineNum="20" parent="globals/VenuFaceView" pc="268435780" symbol="onLayout"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="75" parent="globals/VenuFaceView" pc="268435822" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="76" parent="globals/VenuFaceView" pc="268435826" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="77" parent="globals/VenuFaceView" pc="268435862" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="80" parent="globals/VenuFaceView" pc="268435878" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="81" parent="globals/VenuFaceView" pc="268435889" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="82" parent="globals/VenuFaceView" pc="268435902" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="85" parent="globals/VenuFaceView" pc="268435932" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="87" parent="globals/VenuFaceView" pc="268435946" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="88" parent="globals/VenuFaceView" pc="268435990" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="91" parent="globals/VenuFaceView" pc="268436034" symbol="drawLineHand"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="18" lineNum="13" parent="globals/VenuFaceView" pc="268436055" symbol="initialize"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="18" lineNum="14" parent="globals/VenuFaceView" pc="268436057" symbol="initialize"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="31" parent="globals/VenuFaceView" pc="268436076" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="33" parent="globals/VenuFaceView" pc="268436080" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="34" parent="globals/VenuFaceView" pc="268436097" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="35" parent="globals/VenuFaceView" pc="268436107" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="36" parent="globals/VenuFaceView" pc="268436117" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="38" parent="globals/VenuFaceView" pc="268436127" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="39" parent="globals/VenuFaceView" pc="268436152" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="40" parent="globals/VenuFaceView" pc="268436163" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="44" parent="globals/VenuFaceView" pc="268436179" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="45" parent="globals/VenuFaceView" pc="268436252" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="48" parent="globals/VenuFaceView" pc="268436295" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="49" parent="globals/VenuFaceView" pc="268436334" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="50" parent="globals/VenuFaceView" pc="268436344" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="51" parent="globals/VenuFaceView" pc="268436354" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="52" parent="globals/VenuFaceView" pc="268436364" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="56" parent="globals/VenuFaceView" pc="268436427" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="58" parent="globals/VenuFaceView" pc="268436451" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="59" parent="globals/VenuFaceView" pc="268436473" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="60" parent="globals/VenuFaceView" pc="268436511" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="61" parent="globals/VenuFaceView" pc="268436533" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="63" parent="globals/VenuFaceView" pc="268436574" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="64" parent="globals/VenuFaceView" pc="268436596" symbol="onUpdate"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="68" parent="globals/VenuFaceView" pc="268436638" symbol="drawDigitalData"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="69" parent="globals/VenuFaceView" pc="268436642" symbol="drawDigitalData"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="70" parent="globals/VenuFaceView" pc="268436663" symbol="drawDigitalData"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="71" parent="globals/VenuFaceView" pc="268436688" symbol="drawDigitalData"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="72" parent="globals/VenuFaceView" pc="268436702" symbol="drawDigitalData"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="20" parent="globals/Rez/Layouts" pc="268436717" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="21" parent="globals/Rez/Layouts" pc="268436729" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="22" parent="globals/Rez/Layouts" pc="268436834" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="24" parent="globals/Rez/Layouts" pc="268436886" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="26" parent="globals/Rez/Layouts" pc="268436985" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Layouts" pc="268437084" symbol="WatchFace"/>
-        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="30" parent="globals/Rez/Layouts" pc="268437183" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="15" lineNum="16" parent="globals/VenuFaceView" pc="268435759" symbol="onLayout"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="15" lineNum="17" parent="globals/VenuFaceView" pc="268435761" symbol="onLayout"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="84" parent="globals/VenuFaceView" pc="268435803" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="85" parent="globals/VenuFaceView" pc="268435807" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="86" parent="globals/VenuFaceView" pc="268435820" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="87" parent="globals/VenuFaceView" pc="268435856" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="90" parent="globals/VenuFaceView" pc="268435866" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="91" parent="globals/VenuFaceView" pc="268435877" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="92" parent="globals/VenuFaceView" pc="268435890" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="95" parent="globals/VenuFaceView" pc="268435920" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="97" parent="globals/VenuFaceView" pc="268435934" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="98" parent="globals/VenuFaceView" pc="268435978" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="17" lineNum="101" parent="globals/VenuFaceView" pc="268436022" symbol="drawLineHand"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="18" lineNum="11" parent="globals/VenuFaceView" pc="268436043" symbol="initialize"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="18" lineNum="12" parent="globals/VenuFaceView" pc="268436045" symbol="initialize"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="28" parent="globals/VenuFaceView" pc="268436064" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="30" parent="globals/VenuFaceView" pc="268436068" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="31" parent="globals/VenuFaceView" pc="268436085" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="32" parent="globals/VenuFaceView" pc="268436095" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="33" parent="globals/VenuFaceView" pc="268436105" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="35" parent="globals/VenuFaceView" pc="268436115" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="36" parent="globals/VenuFaceView" pc="268436140" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="37" parent="globals/VenuFaceView" pc="268436151" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="41" parent="globals/VenuFaceView" pc="268436167" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="42" parent="globals/VenuFaceView" pc="268436240" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="45" parent="globals/VenuFaceView" pc="268436283" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="46" parent="globals/VenuFaceView" pc="268436322" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="47" parent="globals/VenuFaceView" pc="268436332" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="48" parent="globals/VenuFaceView" pc="268436342" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="49" parent="globals/VenuFaceView" pc="268436352" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="53" parent="globals/VenuFaceView" pc="268436415" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="55" parent="globals/VenuFaceView" pc="268436439" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="56" parent="globals/VenuFaceView" pc="268436461" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="57" parent="globals/VenuFaceView" pc="268436499" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="58" parent="globals/VenuFaceView" pc="268436521" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="60" parent="globals/VenuFaceView" pc="268436562" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="20" lineNum="61" parent="globals/VenuFaceView" pc="268436584" symbol="onUpdate"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="70" parent="globals/VenuFaceView" pc="268436626" symbol="drawDigitalData"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="71" parent="globals/VenuFaceView" pc="268436630" symbol="drawDigitalData"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="72" parent="globals/VenuFaceView" pc="268436651" symbol="drawDigitalData"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="73" parent="globals/VenuFaceView" pc="268436676" symbol="drawDigitalData"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/source/VenuFaceView.mc" id="21" lineNum="74" parent="globals/VenuFaceView" pc="268436690" symbol="drawDigitalData"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="20" parent="globals/Rez/Layouts" pc="268436705" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="21" parent="globals/Rez/Layouts" pc="268436717" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="22" parent="globals/Rez/Layouts" pc="268436822" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="24" parent="globals/Rez/Layouts" pc="268436874" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="26" parent="globals/Rez/Layouts" pc="268436973" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Layouts" pc="268437072" symbol="WatchFace"/>
+        <entry filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/bin/gen/006-B3226-00/source/Rez.mcgen" id="22" lineNum="30" parent="globals/Rez/Layouts" pc="268437171" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -101,7 +101,6 @@
         <entry field="true" id="20" symbol="ColorDarkGray"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="14" method="true" symbol="drawLineHand"/>
-        <entry field="true" id="8389066" symbol="width"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
@@ -138,39 +137,40 @@
     <localVars>
         <entry endPc="268435549" name="dictionary" stackId="1" startPc="268435509"/>
         <entry arg="true" endPc="268435607" name="dc" stackId="1" startPc="268435551"/>
-        <entry arg="true" endPc="268435821" name="dc" stackId="1" startPc="268435759"/>
-        <entry arg="true" endPc="268436054" name="dc" stackId="1" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="num" stackId="2" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="time" stackId="3" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="offsetNum" stackId="4" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="offsetTime" stackId="5" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="length" stackId="6" startPc="268435822"/>
-        <entry arg="true" endPc="268436054" name="stroke" stackId="7" startPc="268435822"/>
-        <entry endPc="268436053" name="angle" stackId="8" startPc="268435826"/>
-        <entry endPc="268436053" name="center" stackId="9" startPc="268435826"/>
-        <entry endPc="268435928" name="section" stackId="10" startPc="268435889"/>
-        <entry endPc="268436053" name="x2" stackId="11" startPc="268435826"/>
-        <entry endPc="268436053" name="y2" stackId="12" startPc="268435826"/>
-        <entry arg="true" endPc="268436637" name="dc" stackId="1" startPc="268436076"/>
-        <entry endPc="268436636" name="clockTime" stackId="2" startPc="268436080"/>
-        <entry endPc="268436636" name="hours" stackId="3" startPc="268436080"/>
-        <entry endPc="268436636" name="minutes" stackId="4" startPc="268436080"/>
-        <entry endPc="268436636" name="seconds" stackId="5" startPc="268436080"/>
-        <entry endPc="268436636" name="today" stackId="6" startPc="268436080"/>
-        <entry endPc="268436636" name="dayNumber" stackId="7" startPc="268436080"/>
-        <entry endPc="268436636" name="monthNumber" stackId="8" startPc="268436080"/>
-        <entry endPc="268436636" name="year" stackId="9" startPc="268436080"/>
-        <entry arg="true" endPc="268436716" name="format" stackId="1" startPc="268436638"/>
-        <entry arg="true" endPc="268436716" name="arrayData" stackId="2" startPc="268436638"/>
-        <entry arg="true" endPc="268436716" name="drawableId" stackId="3" startPc="268436638"/>
-        <entry arg="true" endPc="268436716" name="color" stackId="4" startPc="268436638"/>
-        <entry endPc="268436715" name="string" stackId="5" startPc="268436642"/>
-        <entry endPc="268436715" name="drawable" stackId="6" startPc="268436642"/>
-        <entry arg="true" endPc="268437229" name="dc" stackId="1" startPc="268436717"/>
-        <entry endPc="268437229" name="rez_cmp_local_bitmap_WatchFace" stackId="2" startPc="268436729"/>
-        <entry endPc="268437229" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436729"/>
-        <entry endPc="268437229" name="rez_cmp_local_text_TimeSeconds" stackId="4" startPc="268436729"/>
-        <entry endPc="268437229" name="rez_cmp_local_text_DateLabel" stackId="5" startPc="268436729"/>
+        <entry arg="true" endPc="268435802" name="dc" stackId="1" startPc="268435759"/>
+        <entry arg="true" endPc="268436042" name="dc" stackId="1" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="num" stackId="2" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="time" stackId="3" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="offsetNum" stackId="4" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="offsetTime" stackId="5" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="length" stackId="6" startPc="268435803"/>
+        <entry arg="true" endPc="268436042" name="stroke" stackId="7" startPc="268435803"/>
+        <entry endPc="268436041" name="width" stackId="8" startPc="268435807"/>
+        <entry endPc="268436041" name="angle" stackId="9" startPc="268435807"/>
+        <entry endPc="268436041" name="center" stackId="10" startPc="268435807"/>
+        <entry endPc="268435916" name="section" stackId="11" startPc="268435877"/>
+        <entry endPc="268436041" name="x2" stackId="12" startPc="268435807"/>
+        <entry endPc="268436041" name="y2" stackId="13" startPc="268435807"/>
+        <entry arg="true" endPc="268436625" name="dc" stackId="1" startPc="268436064"/>
+        <entry endPc="268436624" name="clockTime" stackId="2" startPc="268436068"/>
+        <entry endPc="268436624" name="hours" stackId="3" startPc="268436068"/>
+        <entry endPc="268436624" name="minutes" stackId="4" startPc="268436068"/>
+        <entry endPc="268436624" name="seconds" stackId="5" startPc="268436068"/>
+        <entry endPc="268436624" name="today" stackId="6" startPc="268436068"/>
+        <entry endPc="268436624" name="dayNumber" stackId="7" startPc="268436068"/>
+        <entry endPc="268436624" name="monthNumber" stackId="8" startPc="268436068"/>
+        <entry endPc="268436624" name="year" stackId="9" startPc="268436068"/>
+        <entry arg="true" endPc="268436704" name="format" stackId="1" startPc="268436626"/>
+        <entry arg="true" endPc="268436704" name="arrayData" stackId="2" startPc="268436626"/>
+        <entry arg="true" endPc="268436704" name="drawableId" stackId="3" startPc="268436626"/>
+        <entry arg="true" endPc="268436704" name="color" stackId="4" startPc="268436626"/>
+        <entry endPc="268436703" name="string" stackId="5" startPc="268436630"/>
+        <entry endPc="268436703" name="drawable" stackId="6" startPc="268436630"/>
+        <entry arg="true" endPc="268437217" name="dc" stackId="1" startPc="268436705"/>
+        <entry endPc="268437217" name="rez_cmp_local_bitmap_WatchFace" stackId="2" startPc="268436717"/>
+        <entry endPc="268437217" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436717"/>
+        <entry endPc="268437217" name="rez_cmp_local_text_TimeSeconds" stackId="4" startPc="268436717"/>
+        <entry endPc="268437217" name="rez_cmp_local_text_DateLabel" stackId="5" startPc="268436717"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
@@ -192,12 +192,12 @@
         <dataEntry label="globals/VenuFaceApp" offset="221" parentId="globals" symbolId="VenuFaceApp" type="class"/>
         <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
         <dataEntry label="globals/VenuFaceView" offset="379" parentId="globals" symbolId="VenuFaceView" type="class"/>
-        <dataEntry label="globals/Rez/Drawables" offset="498" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="545" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="584" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="615" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="646" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="757" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="490" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="537" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="576" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="607" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="638" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="749" parentId="Rez" symbolId="JsonData" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
@@ -245,14 +245,14 @@
         <functionEntry accessMode="public" name="onShow" parent="VenuFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435821" name="onLayout" parent="VenuFaceView" startPc="268435759">
+        <functionEntry accessMode="public" endPc="268435802" name="onLayout" parent="VenuFaceView" startPc="268435759">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="VenuFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436054" name="drawLineHand" parent="VenuFaceView" startPc="268435822">
+        <functionEntry accessMode="public" endPc="268436042" name="drawLineHand" parent="VenuFaceView" startPc="268435803">
             <param id="dc"/>
             <param id="num"/>
             <param id="time"/>
@@ -262,17 +262,17 @@
             <param id="stroke"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436075" name="initialize" parent="VenuFaceView" startPc="268436055">
+        <functionEntry accessMode="public" endPc="268436063" name="initialize" parent="VenuFaceView" startPc="268436043">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onHide" parent="VenuFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436637" name="onUpdate" parent="VenuFaceView" startPc="268436076">
+        <functionEntry accessMode="public" endPc="268436625" name="onUpdate" parent="VenuFaceView" startPc="268436064">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436716" name="drawDigitalData" parent="VenuFaceView" startPc="268436638">
+        <functionEntry accessMode="public" endPc="268436704" name="drawDigitalData" parent="VenuFaceView" startPc="268436626">
             <param id="format"/>
             <param id="arrayData"/>
             <param id="drawableId"/>
@@ -297,7 +297,7 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437229" name="WatchFace" parent="Layouts" startPc="268436717">
+        <functionEntry accessMode="public" endPc="268437217" name="WatchFace" parent="Layouts" startPc="268436705">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
