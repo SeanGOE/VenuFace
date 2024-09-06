@@ -85,24 +85,24 @@ class VenuFaceView extends WatchUi.WatchFace {
     //      length - the length of the hand
     //      stroke - the thickness of the hand
     function drawLineHand(dc, num, time, offsetNum, offsetTime, length, stroke) {
-			var angle = Math.toRadians((360/num) * time) - Math.PI/2;
-			var center = width/2;
-			
+        var angle = Math.toRadians((360/num) * time) - Math.PI/2;
+        var center = width/2;
+        
 
-			if(offsetNum != 0) {
-				var section = 360.00/num/offsetNum;
-				angle += Math.toRadians(section * offsetTime);
-			}
-				
-			dc.setPenWidth(stroke);
+        if(offsetNum != 0) {
+            var section = 360.00/num/offsetNum;
+            angle += Math.toRadians(section * offsetTime);
+        }
+            
+        dc.setPenWidth(stroke);
 
-			var x2 = center + Math.round((Math.cos(angle) * length));
-			var y2 = center + Math.round((Math.sin(angle) * length));
+        var x2 = center + Math.round((Math.cos(angle) * length));
+        var y2 = center + Math.round((Math.sin(angle) * length));
 
 
-			dc.drawLine(center, center, x2, y2);
-			
-		}
+        dc.drawLine(center, center, x2, y2);
+        
+    }
 
     
     // Called when this View is removed from the screen. Save the
