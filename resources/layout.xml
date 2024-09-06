@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+
+    
+    <bitmap id="WatchFace" x="center" y="center" filename="/Users/seaneglip/Documents/Venu Projects/VenuFace/resources/drawables/watch_face.png"/> 
+    <label id="TimeLabel" x="235" y="215" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+    <label id="TimeSeconds" x="243" y="235" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="DateLabel" x="center" y="116" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>
