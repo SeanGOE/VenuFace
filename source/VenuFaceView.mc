@@ -26,7 +26,7 @@ class VenuFaceView extends WatchUi.WatchFace {
 
     // Update the view
     function onUpdate(dc as Dc) as Void {
-        // Get the current time and format it correctly
+        // Get the current time
         var clockTime = System.getClockTime();
         var hours = clockTime.hour;
         var minutes = clockTime.min;
